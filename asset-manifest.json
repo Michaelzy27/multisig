@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/multisig/static/js/main.e4aca6e6.js",
+    "main.css": "/multisig/static/css/main.e6c13ad2.css",
+    "main.js": "/multisig/static/js/main.563ce069.js",
     "index.html": "/multisig/index.html",
-    "main.e4aca6e6.js.map": "/multisig/static/js/main.e4aca6e6.js.map"
+    "main.e6c13ad2.css.map": "/multisig/static/css/main.e6c13ad2.css.map",
+    "main.563ce069.js.map": "/multisig/static/js/main.563ce069.js.map"
   },
   "entrypoints": [
-    "static/js/main.e4aca6e6.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.563ce069.js"
   ]
 }
