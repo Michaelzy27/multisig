@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multisig/static/css/main.e6c13ad2.css",
+    "main.js": "/multisig/static/js/main.13f2591f.js",
+    "index.html": "/multisig/index.html",
+    "main.e6c13ad2.css.map": "/multisig/static/css/main.e6c13ad2.css.map",
+    "main.13f2591f.js.map": "/multisig/static/js/main.13f2591f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.13f2591f.js"
+  ]
+}
